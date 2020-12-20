@@ -1,2 +1,7 @@
  a file from git hub
+<<<<<<< Updated upstream
 r
+=======
+modified :wq!
+
+>>>>>>> Stashed changes
